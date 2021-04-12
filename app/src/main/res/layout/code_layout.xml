@@ -16,7 +16,6 @@
             android:layout_height="70dp"
             android:src="@drawable/hou1"
             android:padding="2dp"
-            android:background="#000"
             android:scaleType="centerCrop"/>
         <ImageView
             android:id="@+id/image_2"
@@ -24,7 +23,7 @@
             android:layout_height="70dp"
             android:src="@drawable/hou1"
             android:padding="2dp"
-            android:background="#000"
+            android:layout_marginLeft="10dp"
             android:scaleType="centerCrop"/>
         <ImageView
             android:id="@+id/image_3"
@@ -32,7 +31,7 @@
             android:layout_height="70dp"
             android:src="@drawable/hou1"
             android:padding="2dp"
-            android:background="#000"
+            android:layout_marginLeft="10dp"
             android:scaleType="centerCrop"/>
         <ImageView
             android:id="@+id/image_4"
@@ -40,7 +39,7 @@
             android:layout_height="70dp"
             android:src="@drawable/hou1"
             android:padding="2dp"
-            android:background="#000"
+            android:layout_marginLeft="10dp"
             android:scaleType="centerCrop"/>
     </LinearLayout>
     <LinearLayout
@@ -55,7 +54,7 @@
             android:layout_height="70dp"
             android:src="@drawable/hou1"
             android:padding="2dp"
-            android:background="#000"
+
             android:scaleType="centerCrop"/>
         <ImageView
             android:id="@+id/image_6"
@@ -63,7 +62,7 @@
             android:layout_height="70dp"
             android:src="@drawable/hou1"
             android:padding="2dp"
-            android:background="#000"
+            android:layout_marginLeft="10dp"
             android:scaleType="centerCrop"/>
         <ImageView
             android:id="@+id/image_7"
@@ -71,7 +70,7 @@
             android:layout_height="70dp"
             android:src="@drawable/hou1"
             android:padding="2dp"
-            android:background="#000"
+            android:layout_marginLeft="10dp"
             android:scaleType="centerCrop"/>
         <ImageView
             android:id="@+id/image_8"
@@ -79,7 +78,7 @@
             android:layout_height="70dp"
             android:src="@drawable/hou1"
             android:padding="2dp"
-            android:background="#000"
+            android:layout_marginLeft="10dp"
             android:scaleType="centerCrop"/>
     </LinearLayout>
 </LinearLayout>
